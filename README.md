@@ -1,6 +1,8 @@
-# Log Analyzer with GPU Acceleration
+# Log Analyzer with GPU Acceleration (v1.0.0)
 
 A Python-based log analysis tool that leverages GPU acceleration for processing large log files. It uses embeddings and LLM models to provide meaningful analysis of log content.
+
+[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/yossideutsch1973/log-analyzer/releases/tag/v1.0.0)
 
 ## Features
 
